@@ -32,6 +32,8 @@ DATA VISUALIZATION:
 *Relation between Type and Rating
 *Cost of Restaurant
 *No. of restaurants in a Location
+*costliest restaurant
+*cheapest restaurant
 *foody areas
 *best restaurants to consider
 *Most famous restaurant chains in Bengaluru
