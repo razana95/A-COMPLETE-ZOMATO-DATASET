@@ -21,21 +21,21 @@ Check for some more Transformations
 
 DATA VISUALIZATION:
 
-Restaurants delivering Online or not
-Restaurants allowing table booking or not
-Table booking Rate vs Rate
-Best Location
-Relation between Location and Rating
-Restaurant Type
-Gaussian Rest type and Rating
-Types of Services
-Relation between Type and Rating
-Cost of Restaurant
-No. of restaurants in a Location
-foody areas
-best restaurants to consider
-Most famous restaurant chains in Bengaluru
-geographical analysis
+*Restaurants delivering Online or not
+*Restaurants allowing table booking or not
+*Table booking Rate vs Rate
+*Best Location
+*Relation between Location and Rating
+*Restaurant Type
+*Gaussian Rest type and Rating
+*Types of Services
+*Relation between Type and Rating
+*Cost of Restaurant
+*No. of restaurants in a Location
+*foody areas
+*best restaurants to consider
+*Most famous restaurant chains in Bengaluru
+*geographical analysis
 
 MODEL TRAINING:
 used appropriate features  to build an ML algo to predict the rating of a restaurant. 
