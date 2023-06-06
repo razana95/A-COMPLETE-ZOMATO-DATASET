@@ -1,44 +1,59 @@
-# A-COMPLETE-ZOMATO-DATASET
-BOTH EDA AND MODEL TRAINING
-DATASETS:https://drive.google.com/file/d/1lYh6gdSDDMXY0zLsNNuDSc88NDjXdHfI/view?usp=sharing
+# ZOMATO DATASET-EDA AND RESTAURANT RATING PREDICTION
 
-performed the following tasks:
+This repository contains the Tomato dataset, along with the code and analysis for data exploration, data cleaning, data visualization, and restaurant rating prediction using machine learning algorithms.
 
-DATA EXPLORATION:
+## Dataset
 
-read the dataset
-understand each feature and write down the details.
-explore the dataset info, describe and find columns with categories, and numeric columns as well.
+The zomato dataset used in this project is a collection of restaurant data from Bengaluru, India. It includes various features such as restaurant location, type of cuisine, online delivery availability, table booking options, restaurant ratings, and more. The dataset is available in the following file:
 
-DATA CLEANING:
+- [zomato Dataset (CSV)](https://drive.google.com/file/d/1lYh6gdSDDMXY0zLsNNuDSc88NDjXdHfI/view?usp=sharing)
 
-Deleting redundant columns.
-Renaming the columns.
-Dropping duplicates.
-Cleaning individual columns.
-Remove the NaN values from the dataset
-Check for some more Transformations
+## Project Overview
 
-DATA VISUALIZATION:
+In this project, we perform the following tasks:
 
-*Restaurants delivering Online or not
-*Restaurants allowing table booking or not
-*Table booking Rate vs Rate
-*Best Location
-*Relation between Location and Rating
-*Restaurant Type
-*Gaussian Rest type and Rating
-*Types of Services
-*Relation between Type and Rating
-*Cost of Restaurant
-*No. of restaurants in a Location
-*costliest restaurant
-*cheapest restaurant
-*foody areas
-*best restaurants to consider
-*Most famous restaurant chains in Bengaluru
-*geographical analysis
+### Data Exploration
 
-MODEL TRAINING:
-used appropriate features  to build an ML algo to predict the rating of a restaurant. 
+- Read and understand the dataset, examining each feature and their details.
+- Explore the dataset using information (info), summary statistics (describe), and identify categorical and numeric columns.
+
+### Data Cleaning
+
+- Delete redundant columns that are not necessary for the analysis.
+- Rename columns for better clarity and consistency.
+- Remove duplicate records from the dataset.
+- Clean individual columns by handling missing values (NaN) and performing necessary transformations.
+
+### Data Visualization
+
+We perform various data visualizations to gain insights into the restaurant data, including:
+
+- Restaurants delivering online or not.
+- Restaurants allowing table booking or not.
+- Table booking rate vs. rating.
+- Best locations for restaurants.
+- Relationship between location and rating.
+- Restaurant types.
+- Gaussian restaurant type and rating.
+- Types of services offered by restaurants.
+- Relationship between restaurant type and rating.
+- Cost of restaurants.
+- Number of restaurants in different locations.
+- Costliest and cheapest restaurants.
+- Foodie areas.
+- Best restaurants to consider.
+- Most famous restaurant chains in Bengaluru.
+- Geographical analysis of restaurant data.
+
+### Model Training
+
+We use appropriate features from the dataset to build a machine learning algorithm for predicting the rating of a restaurant. We explore different models and evaluate their performance using appropriate evaluation metrics.
+
+## Usage
+
+1. Clone the repository:
+
+   ```shell
+   git clone https://github.com/your_username/tomato-dataset.git
+
 
