@@ -55,5 +55,18 @@ We use appropriate features from the dataset to build a machine learning algorit
 
    ```shell
    git clone https://github.com/your_username/tomato-dataset.git
+   
+Download the Tomato dataset (CSV) from the link provided above and place it in the project directory. 
+Open the Jupyter Notebook or Python script to access the code and perform various analysis tasks.
+Run the code cells or execute the script to generate the analysis results, visualizations, and model predictions.
+Customize the code as per your requirements and experiment with different techniques to further enhance the analysis or model performance.
+
+## License
+
+This project is licensed under the MIT License. Feel free to use and modify the code and analysis as per your needs.
+
+## Acknowledgements
+
+I would like to express my gratitude to the creators of the Zomato dataset for providing the data for analysis. I appreciate their efforts in collecting and sharing this valuable dataset.
 
 
